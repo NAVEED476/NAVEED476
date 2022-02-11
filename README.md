@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ... New open Source Projects 
 - 📫 How to reach me ... snaveedn23@gmail.com
-- 📫 How to reach me ... https://twitter.com/home
-- 📫 How to reach me ... https://www.linkedin.com/in/naveed-s-61b475223/
-- 📫 How to reach me ... 
+- 📫 Resume ... shorturl.at/eoqN5
+- 📫 my portfolio ...https://naveed476.github.io/NaveedPortfolio/
+- 📫 Twitter... https://twitter.com/home
+- 📫 Linked in.. https://www.linkedin.com/in/naveed-s-61b475223/
 - Ask me about Javascript,react MongoDB
 
 <!---

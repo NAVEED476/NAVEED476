@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ... New open Source Projects 
 - 📫 How to reach me ... snaveedn23@gmail.com
-- 📫 Resume ... shorturl.at/eoqN5
+- 📫 Resume ... https://bit.ly/3BbSwRI
 - 📫 my portfolio ...https://naveed476.github.io/NaveedPortfolio/
 - 📫 Twitter... https://twitter.com/home
 - 📫 Linked in.. https://www.linkedin.com/in/naveed-s-61b475223/

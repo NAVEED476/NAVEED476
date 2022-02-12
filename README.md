@@ -1,4 +1,6 @@
-                                                                   <h1>Hi i am Naveed</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhawani Shankar</h1>
+<h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from :india:</h3>
+<h3 align="center">I'm a passionate Full Stack Web Developer from :india:</h3>
 - 👀 I’m interested in listening Music, Reading Blogs 
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ... New open Source Projects 

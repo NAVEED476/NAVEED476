@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NAVEED476
+<h1 style="mragin:auto">Hi i am Naveed</h1>
 - 👀 I’m interested in listening Music, Reading Blogs 
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ... New open Source Projects 

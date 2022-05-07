@@ -9,7 +9,7 @@
 - 📫 my portfolio ...https://naveed476.github.io/NaveedPortfolio/
 - 📫 Twitter... https://twitter.com/home
 - 📫 Linked in.. https://www.linkedin.com/in/naveed-s-61b475223/
-- Ask me about Javascript,react MongoDB
+- Ask me about Javascript,react, MongoDB
 
 
 ### Tools and Skills <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=50px>
@@ -18,7 +18,7 @@
 - 🚀 Languages - *HTML, CSS, JavaScript, Java*
 - 🚀 FrameWork/Libraries - *React.js, Express.js*
 - 🚀 Databases/Backend - *MongoDB, Redis, Node.js, Mysql*
-- 🚀 Others - *Git, Python, VSCode, Postman*
+- 🚀 Others - *Git, VSCode, Postman*
 
 
 

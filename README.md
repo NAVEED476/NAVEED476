@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India</h3>
 
 - 👀 I’m interested in listening Music, Reading Blogs 
-- 🌱 I’m currently learning Full Stack Web Development
+- 🌱 Working prodfessional
 - 💞️ I’m looking to collaborate on ... New open Source Projects 
 - 📫 How to reach me ... snaveedn23@gmail.com
 - 📫 Resume ... https://bit.ly/3BbSwRI

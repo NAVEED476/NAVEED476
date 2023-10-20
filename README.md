@@ -5,7 +5,7 @@
 - 🌱 Working proffessional
 - 💞️ I’m looking to collaborate on ... New open Source Projects 
 - 📫 How to reach me ... snaveedn23@gmail.com
-- 📫 Resume ... https://bit.ly/3BbSwRI
+- 📫 Resume ... [https://bit.ly/3BbSwRI](https://drive.google.com/file/d/149XPy_a2AiJ30MYEFfOEiFTb8CqG321K/view?usp=share_link)
 - 📫 my portfolio ... https://naveed476.github.io/updatedport/
 - 📫 Twitter... https://twitter.com/home
 - 📫 Linked in.. [https://www.linkedin.com/in/naveed-s-61b475223/](https://www.linkedin.com/in/naveed-shaik-61b475223/)

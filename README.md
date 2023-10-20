@@ -8,7 +8,7 @@
 - 📫 Resume ... https://bit.ly/3BbSwRI
 - 📫 my portfolio ... https://naveed476.github.io/updatedport/
 - 📫 Twitter... https://twitter.com/home
-- 📫 Linked in.. https://www.linkedin.com/in/naveed-s-61b475223/
+- 📫 Linked in.. [https://www.linkedin.com/in/naveed-s-61b475223/](https://www.linkedin.com/in/naveed-shaik-61b475223/)
 - Ask me about Javascript,react, MongoDB
 
 

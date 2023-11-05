@@ -5,7 +5,7 @@
 - 🌱 Working professional
 - 💞️ I’m looking to collaborate on ... New Open Source Projects 
 - 📫 How to reach me ... snaveedn23@gmail.com
-- 📫 Resume ... [https://bit.ly/3BbSwRI](https://drive.google.com/file/d/149XPy_a2AiJ30MYEFfOEiFTb8CqG321K/view?usp=share_link)
+- 📫 Resume ... [https://bit.ly/3BbSwRI](https://drive.google.com/file/d/1JFPgkuVb3zK0itOniFRv2BI3JMCOps8H/view)
 - Ask me about Javascript, react, MongoDB
 
 

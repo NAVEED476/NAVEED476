@@ -7,7 +7,7 @@
 - 🌱 Working professional.
 - 💞️ Looking to collaborate on new Open Source Projects.
 - 📫 How to reach me: snaveedn23@gmail.com.
-- 📫 Resume: [https://bit.ly/3BbSwRI](https://drive.google.com/file/d/1JFPgkuVb3zK0itOniFRv2BI3JMCOps8H/view).
+- 📫 Resume: https://drive.google.com/file/d/1aKPvg51Raj-RWm9jE-vdWxDjcPikkBhJ/view?usp=sharing.
 - Ask me about Javascript, React, MongoDB, Node JS, Express JS
 
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am  Naveed</h1>
-<h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India</h3>
+<h3 align="center">I am an enthusiastic Full Stack Developer and dedicated Competitive Programmer from India, driven by a passion for creating impactful solutions and pushing the boundaries of coding challenges.</h3>
 
 - 👀 I’m interested in listening to Music, Reading Blogs 
 - 🌱 Working professional

@@ -1,24 +1,60 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am  Naveed</h1>
-<h3 align="center">I am an enthusiastic Full Stack Developer and dedicated Competitive Programmer from India, driven by a passion for creating impactful solutions and pushing the boundaries of coding challenges.</h3>
-- 👀 Interested in listening to Music and Reading Blogs, Playing Cricket.
-- 🚀 motivated in Problem Solving, Creativity, Continuous Learning, and Career Opportunities.
-- 🌱 Working professional.
-- 💞️ Looking to collaborate on new Open Source Projects.
-- 📫 How to reach me: snaveedn23@gmail.com.
-- 📫 Resume: https://drive.google.com/file/d/1aKPvg51Raj-RWm9jE-vdWxDjcPikkBhJ/view?usp=sharing.
-- Ask me about Javascript, React, MongoDB, Node JS, Express JS
-### Tools and Skills <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=50px>
-- 🚀 Languages - HTML, CSS, JavaScript, Java
-- 🚀 FrameWork/Libraries - React.js, Express.js
-- 🚀 Databases/Backend - MongoDB, Redis, Node.js, Mysql
-- 🚀 Others - Git, VSCode, Postman
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Naveed
+
+### Full Stack Developer | Competitive Programmer | MERN Specialist
+
+I'm an enthusiastic Full-Stack Developer and dedicated Competitive Programmer from India. With three years of experience in MERN stack development, I'm passionate about creating impactful solutions and pushing the boundaries of coding challenges.
+
+- 👀 Interests: Listening to Music, Reading Tech Blogs, Playing Cricket
+- 🚀 Motivated by: Problem Solving, Creativity, Continuous Learning, and Career Growth
+- 🌱 Current status: Working professional with 3 years of experience in MERN stack
+- 💞️ Looking to collaborate on innovative Open Source Projects
+- 📫 Reach me at: snaveedn23@gmail.com
+- 📄 [Resume](https://drive.google.com/file/d/1aKPvg51Raj-RWm9jE-vdWxDjcPikkBhJ/view?usp=sharing)
+
+## 💻 Tech Stack & Tools
+
 <p align="center">
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
+</p>
+
+## 🌟 Highlights
+
+- 3+ years of experience in MERN (MongoDB, Express.js, React.js, Node.js) stack development
+- Proficient in building scalable and responsive web applications
+- Experience with RESTful API design and implementation
+- Familiar with Agile methodologies and version control using Git
+- Strong problem-solving skills and passion for clean, efficient code
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
+</p>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/></a>
+</p>

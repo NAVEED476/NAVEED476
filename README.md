@@ -41,16 +41,6 @@ I'm an enthusiastic Full-Stack Developer and dedicated Competitive Programmer fr
 - Familiar with Agile methodologies and version control using Git
 - Strong problem-solving skills and passion for clean, efficient code
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" />
-</p>
-
 ## 🤝 Let's Connect
 
 <p align="center">

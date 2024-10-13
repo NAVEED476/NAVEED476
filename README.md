@@ -9,7 +9,7 @@ I'm an enthusiastic Full-Stack Developer and dedicated Competitive Programmer fr
 - 🌱 Current status: Working professional with 3 years of experience in MERN stack
 - 💞️ Looking to collaborate on innovative Open Source Projects
 - 📫 Reach me at: snaveedn23@gmail.com
-- 📄 [Resume](https://drive.google.com/file/d/1aKPvg51Raj-RWm9jE-vdWxDjcPikkBhJ/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1X1WX4veNx5XQENYNbfkXVXz1CT5HuHbG/view?usp=sharing)
 
 ## 💻 Tech Stack & Tools
 
